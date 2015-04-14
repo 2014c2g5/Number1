@@ -1,4 +1,13 @@
-My Awesome Book
-=======
+# Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+March - July 2015
+
+Welcome, this is an ongoing project record for a university course named collaborative product design principles and practices.
+
+Github integration: https://github.com/coursemdetw/2015cd.git 
+
+course website: http://cd-cadp.rhcloud.com
+
+
+
+
